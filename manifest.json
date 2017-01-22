@@ -1,0 +1,10 @@
+{
+  "name": "tmstmpr",
+  "manifest_version": 2,
+  "version": "1.0.0",
+  "description": "convert times",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "index.html"
+  }
+}
